@@ -17,7 +17,7 @@
 }
 
 </script>
-    <Header title={"My Biography"} />
+    <Header title={"YK's Biography"} />
 
     <Section {...myInfo} />
 

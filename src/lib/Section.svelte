@@ -12,7 +12,7 @@
 </script>
 
 <div class="p-5">
-    <div class="card">
+    <div class="card bg-dark text-white">
         <div class="card-body">
             <h3>{title}</h3>
             <p>Name: {item1}</p>
@@ -23,7 +23,7 @@
 </div>
 
 <div class="p-5">
-    <div class="card">
+    <div class="card bg-dark text-white">
         <div class="card-body">
             <h3>Hobbies</h3>
             <p>{hobby1}</p>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="p-5">
-    <div class="card">
+    <div class="card bg-dark text-white">
         <div class="card-body">
             <h3>Personality</h3>
             <p>{personality1}</p>
